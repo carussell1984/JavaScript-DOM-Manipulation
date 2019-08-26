@@ -24,7 +24,7 @@ button.on("click", function() {
     
     
     
-    var filteredData = tableData.filter(Data => Data.datetime === inputValue)
+    var filteredData = tableData.filter(Data  => Data.datetime === inputValue)
 
     
     console.log(filteredData);
