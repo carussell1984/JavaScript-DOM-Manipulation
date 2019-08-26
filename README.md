@@ -1,14 +1,15 @@
 # Javascript & DOM Manipulation
 <h2>Background</h2>
 
-  <code>ALIENS-R-REAL</code> have collected all of the eye-witness reports on extra-terrestrial menace! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+  <code>ALIENS-R-REAL</code> has collected all of the eye-witness reports on extra-terrestrial menace! Now the objective is to put this information online for the world to see.
   
   There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+We need you to write code that will create a table dynamically based upon a dataset we provide. We also need to allow our users to filter the table data for specific values with the following tools: JavaScript, HTML, and CSS, and D3.js. 
 
 <h2>Your Task</h2>
 
 <h3>Level 1: Automatic Table and Date Search</h3>
+
  * Create a basic HTML web page or use the index.html file provided (we recommend building your own custom page!).
 
  * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
