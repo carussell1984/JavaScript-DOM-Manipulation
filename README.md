@@ -31,6 +31,19 @@ We need you to write code that will create a table dynamically based upon a data
 
 <h2>RoadMap</h2>
 
+<h3>Documents for Level 1</h3>
+* The html document is in the main github repo and is entitled index_option_1.html
+* The css styling document in is in the css folder and is entitled style.css
+* The .js file is in the static folder and is in entitled app_option_1.js
+* The raw data used in this project is located in the static folder and is called data.js
+
+
+
+<h3>Documents for Level 2</h3>
+* The html document is in the main github repo and is entitled index.html
+* The css styling document in is in the css folder and is entitled style.css
+* The .js file is in the static folder and is in entitled app_option_2_optional.js
+* The raw data uses this file is in the static folder called data.js
 
 
 
